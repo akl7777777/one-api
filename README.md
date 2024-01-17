@@ -15,11 +15,11 @@
 
 ## 新版特性
 待完善，可直接查看演示和截图
-> :warning: **注意**: Shell API 提供完善的渠道管理方案，完全不同于套壳卖皮肤的[Pro](https://nanjiren.online/modelserver/aimhub/)
+> :warning: **注意**: Shell API 提供完善的渠道管理方案，完全不同于套壳卖皮肤的[所谓 AI Chat 项目组开发的Pro版本](https://nanjiren.online)
 ## 在线演示
 [https://demo.oneapi.plus](https://demo.oneapi.plus)
 ## 截图展示
-##### 注意：截图仅更新到v0.9.0，请以最新版本为准
+##### 注意：截图仅更新到v0.9.0，请以最新版本为准（最新版 v1.5.8）
 ![Shell API](https://github.com/akl7777777/one-api/assets/135022988/0de4bbd7-b3d8-44c7-a6b9-069c59935318)
 
 ![image](https://github.com/akl7777777/one-api/assets/135022988/ac8147e1-c80b-4540-9e09-c2e22ec4b118)
@@ -95,9 +95,6 @@
 <img width="781" alt="image" src="https://github.com/akl7777777/one-api/assets/135022988/39fe09db-560e-4578-8643-f058ba02f140">
 ![image](https://github.com/akl7777777/one-api/assets/135022988/bde13bd8-82cd-40cb-a273-addb8d570f44)
 ![image](https://github.com/akl7777777/one-api/assets/135022988/592ede20-9272-4db1-ae31-0dfe4b26ac39)
-
-
-
 
 
 ## 部署
