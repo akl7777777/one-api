@@ -20,7 +20,8 @@
 [https://demo.oneapi.plus](https://demo.oneapi.plus)
 ## 截图展示
 ##### 注意：截图仅更新到v0.9.0，请以最新版本为准（最新版 v1.5.8）
-![Shell API](https://github.com/akl7777777/one-api/assets/135022988/0de4bbd7-b3d8-44c7-a6b9-069c59935318)
+
+![Shell API-03](https://github.com/akl7777777/shell-api/assets/135022988/aa4c5ddd-67f9-43f4-a00f-742bbf6aa300)
 
 ![image](https://github.com/akl7777777/one-api/assets/135022988/ac8147e1-c80b-4540-9e09-c2e22ec4b118)
 ![image](https://github.com/akl7777777/one-api/assets/135022988/2f9f4f14-9473-4b37-a256-cec20f2318dd)
