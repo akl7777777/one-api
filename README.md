@@ -1,6 +1,7 @@
 <div align="center">
 
-![](https://one-api.oss-rg-china-mainland.aliyuncs.com/Logo-new-150.png)
+![shellapilogo](https://github.com/akl7777777/shell-api/assets/135022988/9d543c74-0693-431e-b326-fc33a5adef8c)
+
 
 </div>
 <div align="center">
@@ -21,8 +22,8 @@
 ## 截图展示
 ##### 注意：截图仅更新到v0.9.0，请以最新版本为准（最新版 v1.5.8）
 
-![Shell API-03](https://github.com/akl7777777/shell-api/assets/135022988/aa4c5ddd-67f9-43f4-a00f-742bbf6aa300)
 
+![Shell API](https://github.com/akl7777777/one-api/assets/135022988/0de4bbd7-b3d8-44c7-a6b9-069c59935318)
 ![image](https://github.com/akl7777777/one-api/assets/135022988/ac8147e1-c80b-4540-9e09-c2e22ec4b118)
 ![image](https://github.com/akl7777777/one-api/assets/135022988/2f9f4f14-9473-4b37-a256-cec20f2318dd)
 ![image](https://github.com/akl7777777/one-api/assets/135022988/547b409d-2ff5-4e31-b644-0e8706617cbc)
