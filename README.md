@@ -18,7 +18,7 @@
 **为了更好服务已有用户，Shell API 已暂停出售专业版授权。**
 
 Shell API青春版现已发售，演示与价格：
-https://lite.shell-api.com
+https://lite.shellapi.ltd
 
 简化了分发相关逻辑，只允许超级管理员持有单令牌，其余聚合等功能与专业版完全一致。
 
