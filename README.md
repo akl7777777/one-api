@@ -198,5 +198,5 @@ docker-compose up -d
 https://docs.qq.com/aio/DSWZ3eUhBSVlIa2l6
 ![img_32.png](img_32.png)
 ### 咨询交流群696967655
-![f0057e3f2cdaa563b329a9e7f8f696d2](https://github.com/akl7777777/one-api/assets/84266551/0ef67dd8-ea20-4b37-9e08-6e80b941beef)
+![f0057e3f2cdaa563b329a9e7f8f696d2](qrcode_1730792856655.jpg)
 
